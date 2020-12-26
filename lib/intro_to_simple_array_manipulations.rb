@@ -6,6 +6,6 @@ end
 def using_insert(list_of_programming_languages, another_language)
 new_array = []
 new_array.insert(4, "Python")
-new_array.
+new_array.length
 binding.pry
 end
